@@ -1,0 +1,67 @@
+# Site settings
+title: >
+  Marc de Krosse
+email: your-email@domain.com
+info: >
+  Sinds 1988 ben ik werkzaam bij Vera, een poppodium in Groningen (zie ook <a href="http://www.vera-groningen.nl/photos/photographers/marc-de-krosse" target=""Vera site), waar voornamelijk alternatieve bands optreden. Vanaf 2001 is er op georganiseerde basis een fotogroep aan het werk en ik ben daar concertfotograaf vanaf het prille begin. Doel van de fotogroep is om elk concert te registreren en de foto�s op de Vera site te plaatsen. Leuk voor bezoekers van het concert zelf, de bands en het archief van Vera. Enkele bands, voor zover ik weet, hebben foto�s van mij gebruikt voor hun cd�s of singles. Zie de onderstaande gallery. Ook komen de foto�s vaak terug op de website van de bands of andere muzieksites. Voor voorbeelden zie publicaties.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+twitter_username: ---
+github_username:  ---
+keywords: Zenergy Zuidlaren, zenergy, doel, energieverbruik, Zenergy Zuidlaren
+
+# Build settings
+markdown: kramdown
+
+# Social
+links:
+    twitter:
+    facebook: marc.dekrosse
+    instagram:
+    github:
+    pinterest:
+    youtube: looptoprolletjes
+    linkedin:
+    flickr:
+    email: marcdekrosse@hotmail.com
+    dropbox:
+
+# Content
+home:
+    block1: >
+        Op school wordt erg veel energie verbruikt. Als we ervoor kunnen zorgen dat we op school energie besparen, zou dat al een heleboel schelen. Om de directie te overtuigen zullen wij een presentatie aan het gaan geven. In deze presentatie vermelden wij ons doel en de mogelijkheden om energie te besparen.
+
+    block2: >
+        Wij zijn erg geïnteresseerd in wat mensen op school en in de omgeving bij is gebleven. Als anderen enthousiast zijn is er ook een grotere kans dat als wij de Energie Challeges doorgeven, het ook een succes wordt. Wij willen een aantal mensen uit 2A (de klas die het volgend jaar overneemt) interviewen over de impact die wij hebben gehad en of zij eventueel al plannen hebben voor volgend jaar. Ook willen wij mensen uit de directie en uit de omgeving vragen stellen over of zij een verandering hebben gemerkt.
+
+    block3: >
+       <a class="twitter-timeline" href="https://twitter.com/zenergy2015" data-widget-id="598470139340836864">Tweets door @zenergy2015</a>
+       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+    info: >
+            De energy challenges is een strijd tussen verschillende scholen. Elke school heeft als doel om het meeste energie te besparen door middel van acties en andere projecten. De kinderen denken er over na hoe ze hun school zo energiezuinig mogelijk kunnen maken. Door bijvoorbeeld de lampen uit te doen en de ramen te sluiten. Met elk onderdeel uit de energie challenges kun je een ster winnen en de school met de meeste sterren en het meest bespaarde geld wint een leuke prijs. Vorig jaar waren dit bijvoorbeeld smartphones voor alle leerlingen die meededen en in het winnende team zaten.
+collapsible:
+ - header: Sterren?
+   info: >
+            Tijdens de Energy Challenge is het de bedoeling dat je de opdrachten zo goed mogelijk uitvoert. Als een school een opdracht goed heeft uitgevoerd kan de school daar een ster voor krijgen. Deze sterren heb je nodig om de Challenge te winnen. Er zijn zeven sterren te verdienen bij de zeven stappen die je volgt gedurende de Challenge. De Energy Challenge is in drie delen verdeeld.
+
+ - header: Fase 1
+   info: >
+            In het eerste deel, de voorbereiding, zijn er twee sterren te verdienen. Tijdens de voorbereiding maken de scholen een logo, een filmpje en een plan van aanpak.
+
+ - header: Fase 2
+   info: >
+            Tijdens het tweede deel van de Challenge is het de bedoeling om het plan van aanpak uit te voeren, de ouders erbij te betrekken, en via sociale media nog meer mensen te stimuleren om ook zuiniger met energie om te gaan. Hiervoor zijn dan ook drie sterren te verdienen. Er is ook nog een afsluiting waarop we terugblikken op de Energy Challenge.
+
+ - header: Fase 3
+   info: >
+            Er wordt dan een event voor de ouders georganiseerd en er wordt gekeken of de Challenge energie heet bespaard bij de scholen. Hiervoor zijn nog eens twee sterren te verdienen. De school die tijdens de drie fases de meeste sterren heeft verdiend maakt een grote kans om de hoofdprijs te winnen. De jury kijkt niet alleen naar het aantal behaalde sterren. Er wordt ook gelet op manier hoe ze behaald zijn. Hierbij kijken ze naar vijf punten: Presentatie, effectiviteit, creativiteit, actieve volgers en de inhoud van de campagne. Er zijn tijdens de opdrachten, naast de sterren, ook nog kleinere prijzen te winnen. Welke prijzen er worden uitgereikt is nog niet bekent. In Drenthe doen negenentwintig basisscholen en middelbare scholen mee aan de Challenge. Er is dus genoeg concurrentie om tegen te strijden!
+
+
+agenda:
+  - date: 27 februari 2016
+    event: MyDearestDera + Eva Waterbolk (Vera Downstage)
+  - date: 5 maart 2016
+    event: Icky Pack (Vera Downstage)
+  - date: 11 maart 2016
+    event: Birth of Joy + The Mysterons (Vera Grote zaal)

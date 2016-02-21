@@ -1,0 +1,34 @@
+---
+---
+
+@import "materialize";
+@import "color";
+@import "lightbox";
+
+body {
+    background: $tiber;
+    display: flex;
+    min-height:100vh;
+    flex-direction: column;
+}
+main {
+  flex: 1 0 auto;
+}
+a {
+    color: #333
+}
+.collapsible {
+  a {
+    color: $shakespeare;
+  }
+  a:hover {
+    color:#ff0b06
+  }
+}
+.parallax-container {
+    height: 400px;
+  }
+
+.thumb {
+  max-height: 200px;
+}

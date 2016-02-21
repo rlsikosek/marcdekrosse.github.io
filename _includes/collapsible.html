@@ -1,0 +1,8 @@
+        <ul class="collapsible" data-collapsible="accordion">
+            {% for point in site.collapsible %}
+            <li>
+              <div class="collapsible-header"><i class="fa fa-star"></i>{{ point.header }}</div>
+              <div class="collapsible-body"><p>{{ point.info }}</p></div>
+            </li>
+            {% endfor %}
+        </ul>

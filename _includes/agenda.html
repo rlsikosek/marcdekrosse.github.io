@@ -1,0 +1,9 @@
+<table>
+  <tbody>
+    {% for point in site.agenda %}
+    <tr>
+      <td>{{ point.date }}</td><td>{{ point.event }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
